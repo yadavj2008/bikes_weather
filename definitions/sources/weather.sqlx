@@ -3,6 +3,5 @@ config {
   database: "bigquery-public-data",
   schema: "ghcn_d",
   name: "ghcnd_2022",
-  location: "US",
   description: "Weather data from Global Historical Climate Network (GHCN) in 2022"
 }

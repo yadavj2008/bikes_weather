@@ -1,6 +1,6 @@
 config {
   type: "view",
-  schema: "staging",
+  schema: "dataform_demo",
   description: "Bicycle rental data corresponding to New York City",
 }
 
