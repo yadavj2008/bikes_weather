@@ -3,5 +3,5 @@
     "defaultSchema": "dataform_demo",
     "assertionSchema": "dataform_demo",
     "defaultDatabase": "fire-344022",
-    "defaultLocation" : "europe-west4"
+    "defaultLocation" : "US"
 }
