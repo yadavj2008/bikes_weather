@@ -3,5 +3,6 @@ config {
   database: "bigquery-public-data",
   schema: "new_york_citibike",
   name: "citibike_trips",
+  location: "US",
   description: "New York bicycle rentals"
 }
